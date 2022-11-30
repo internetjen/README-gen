@@ -41,7 +41,7 @@ inquirer
         {
             type: 'input',
             name: 'tests',
-            message: 'Provide examples on how to any tests here:',
+            message: 'Provide examples on how to run any tests here:',
         },
         {
             type: 'input',
